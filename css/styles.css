@@ -230,7 +230,7 @@ h1 {
     padding: 15px 40px;
     position: relative;
     outline: none !important;
-    margin-bottom: 70px;
+    margin-bottom: 76px;
     box-shadow: 0 0 10px rgba(0,0,0,0.5);
 }
 .more:hover,
@@ -506,7 +506,7 @@ div .serv {
     height: 7px;
     content: " ";
     color: #fff;
-    top: 1px;
+    top: 2px;
     left: 5px;
     border-radius: 50%;
     
@@ -565,7 +565,7 @@ div .serv {
     background-color: transparent;
     outline: none;
     border: none;
-    border-right: 1px solid #868686;
+/*    border-right: 1px solid #868686;*/
 }
 
 .right_calend .time {
@@ -694,7 +694,7 @@ h3 {
     float: left;
     width: 100%;
     font-size: 14px;
-    color: #bcbcbc;
+    color: #7f7e7e;
 }
 
 footer {
@@ -704,7 +704,7 @@ footer {
     font-size: 14px;
     font-weight: 100;
     color: #bcbcbc;
-    border-top: 1px solid #dadbdd; 
+    border-top: 1px solid #7f7e7e; 
 }
 footer .brand {
     float: left;
