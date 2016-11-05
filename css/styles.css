@@ -42,7 +42,7 @@ body {
 }
 
 header {
-    border-bottom: 1px solid #dadbdd;
+    border-bottom: 1px solid #c3c4c2;
 }
 
 
@@ -506,7 +506,7 @@ div .serv {
     height: 7px;
     content: " ";
     color: #fff;
-    top: 2px;
+    top: 1px;
     left: 5px;
     border-radius: 50%;
     
@@ -518,7 +518,7 @@ div .serv {
     display: block;
     height: 5px;
     width: 5px;
-    background-color: #858585;
+    background-color: #d0d0d0;
     border-radius: 50%;
     
 }
@@ -541,7 +541,7 @@ div .serv {
 */
 
 .right_calend .bwd {
-    color: #868686;
+    color: #858585;
     font-weight: 300;
     font-size: 12px;
     float: right;
@@ -556,7 +556,7 @@ div .serv {
 }
 
 .right_calend .fwd  {
-    color: #868686;
+    color: #858585;
     font-weight: 300;
     font-size: 12px;
     float: right;
@@ -700,11 +700,11 @@ h3 {
 footer {
     float: left;
     width: 100%;
-    background-color: #f2f2f2;
+    background-color: #f5f5f5;
     font-size: 14px;
     font-weight: 100;
     color: #bcbcbc;
-    border-top: 1px solid #7f7e7e; 
+    border-top: 1px solid #e3e7e7; 
 }
 footer .brand {
     float: left;
